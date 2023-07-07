@@ -9,4 +9,4 @@
   - Seaborn
   - Plotly
   - визуализация данных
-## Проект с полноценной визуализацией: https://disk.yandex.ru/d/sKM5tdyGvDGXBw
+## Проект с полноценной визуализацией: https://disk.yandex.ru/d/sKM5tdyGvDGXBw или https://disk.yandex.ru/d/bC_GZzpfCJSUhw
