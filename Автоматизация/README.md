@@ -11,3 +11,4 @@
   - Tableau
   - продуктовые метрики
   - построение дашбордов
+## Ссылка на дашборд https://public.tableau.com/app/profile/elena.plugina/viz/_16878492320220/sheet4#1
