@@ -10,4 +10,3 @@
   - Plotly
   - визуализация данных
 ## Проект с полноценной визуализацией: https://disk.yandex.ru/d/sKM5tdyGvDGXBw или https://disk.yandex.ru/d/bC_GZzpfCJSUhw
-## Презентация: https://disk.yandex.ru/i/1xEd74FX6MLI_g
